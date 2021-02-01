@@ -19,6 +19,7 @@ volatile int angle_okrugl;		   //Угол для которого пришли �
 volatile int coord_X;
 volatile int coord_Y;
 volatile byte chek_sum = 0;   // Байт контрольной суммы
+//test
 
 //=================================================================================================================
 // This program requires the UTFT library.
